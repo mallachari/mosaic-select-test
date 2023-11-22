@@ -1,3 +1,6 @@
+@import '@stoplight/mosaic/styles.css';
+@import '@stoplight/mosaic/themes/default.css';
+
 .App {
   text-align: center;
 }
